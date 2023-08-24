@@ -14,7 +14,7 @@ LangChain is a real-time streaming chat application built using the FastAPI fram
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/langchain.git
+    git clone https://github.com/sounthariyaa/langchain.git
     cd langchain
     ```
 
