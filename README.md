@@ -48,9 +48,7 @@ Contributions are welcome! If you encounter any issues or have ideas for improve
 4. Push the branch to your fork: `git push origin feature-name`
 5. Open a pull request, providing a clear description of your changes.
 
-## Credits
 
-This project draws inspiration from the ChatGPT interface and was developed by [Your Name](https://github.com/your-username).
 
 ## License
 
